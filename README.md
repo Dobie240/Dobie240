@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dobie240
+- 👋 Hi, I’m Dobrin
 - 👀 I’m interested in 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
